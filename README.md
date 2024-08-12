@@ -40,21 +40,21 @@ While looking at City Latitude vs. Wind Speed (2022-10-18) (Fig3) there appears 
 ## TEMPERATURE VS LATITUDE LINEAR REGRESSION PLOT
 When examining the linear regression plot of Temperature vs Latitude for the Northern Hemisphere you immediately can see a strong negative correlation showing higher city temperatures as the latitude nears the equator and lower city temperatures as the latitude moves away from the equator.  This linear regression appears to show a strong correlation with a definitive negative slope and an r-value of -0.883.  This correlation also makes intuitive sense as temperatures generally tend to rise as locations get closer to the equator and drop as locations mover further away.             
 When examining the Linear Regression Plot of Temperature vs Latitude for the Southern Hemisphere we see a weaker positive correlation between higher city temperatures as the latitude.  This linear regression displays a more gradual positive slope and a weaker r-value of 0.517.  A potential explanation of the weaker linear regression seen in the southern hemisphere could potentially be due to a significantly smaller human population in the southern hemisphere vs the norther hemisphere, allowing southern hemisphere cities to be more spread out geographically. 
-<img src="Pics/TEMPERATURE VS LATITUDE LINEAR REGRESSION PLOT  A.png" width="640" height="480">
-<img src="Pics/TEMPERATURE VS LATITUDE LINEAR REGRESSION PLOT  B.png" width="640" height="480">
+<img src="Pics/TEMPERATURE VS LATITUDE LINEAR REGRESSION PLOT NORTH.png" width="573" height="376">
+<img src="Pics/TEMPERATURE VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="576" height="373">
 
 
 ## HUMIDITY VS LATITUDE LINEAR REGRESSION PLOT
 The Humidity vs Latitude Linear Regression Plot for the Northern and Southern Hemispheres, both provided a low correlation in the results.  Both lineal regression plots show relatively loose positive correlations between city latitude and humidity, with a r-value in the north at .0457 and a r-value in the south at 0.384.  Neither of these polts show strong considerations for city location in relation to humidity, and it can be assumed that other environmental factors play a much stronger role in determining where a city is to be located.   
-<img src="Pics/HUMIDITY VS LATITUDE LINEAR REGRESSION PLOT  A.png" width="640" height="480">
-<img src="Pics/HUMIDITY VS LATITUDE LINEAR REGRESSION PLOT  B.png" width="640" height="480">
+<img src="Pics/HUMIDITY VS LATITUDE LINEAR REGRESSION PLOT NORTH.png" width="551" height="377">
+<img src="Pics/HUMIDITY VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="552" height="378">
 
 ## CLOUDINESS VS LATITUDE LINEAR REGRESSION PLOT
 Upon examining Cloudiness vs Latitude Linear Regression Plots for the Northern and Southern Hemispheres both plots show very weak correlations between Cloudiness and City Latitude.  The linear regression plot for both the northern and southern hemispheres shows a gradual positive slope and a r-value of 0.304 for the northern hemisphere and a r-value of 0.271 for the southern hemisphere.  The graphs for both hemispheres point to a weak correlation between city latitude and cloudiness.      
-<img src="Pics/CLOUDINESS VS LATITUDE LINEAR REGRESSION PLOT  A.png" width="640" height="480">
-<img src="Pics/CLOUDINESS VS LATITUDE LINEAR REGRESSION PLOT  B.png" width="640" height="480">
+<img src="Pics/CLOUDINESS VS LATITUDE LINEAR REGRESSION PLOT NORTH.png" width="564" height="377">
+<img src="Pics/CLOUDINESS VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="566" height="375">
 
 ## WIND SPEED VS LATITUDE LINEAR REGRESSION PLOT
 When looking that the Latitude Linear Regression Plots for Wind Speed vs City Latitude, both plots (northern and southern) show a very low correlation between the variables.  The plot for the northern hemisphere shows an almost horizonal slope with a r-value of 0.065 while the southern hemisphere plot shows a slightly negative slope with an r-value of -0.131.  Both plots display a very low correlation between city latitude and wind speed.
-<img src="Pics/WIND SPEED VS LATITUDE LINEAR REGRESSION PLOT  A.png" width="640" height="480">
-<img src="Pics/WIND SPEED VS LATITUDE LINEAR REGRESSION PLOT  B.png" width="640" height="480">
+<img src="Pics/WIND SPEED VS LATITUDE LINEAR REGRESSION PLOT NORTH.png" width="570" height="377">
+<img src="Pics/WIND SPEED VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="571" height="373">
