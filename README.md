@@ -35,7 +35,7 @@ When examining City Latitude vs. Cloudiness (2022-10-18) (Fig3) there appears to
 
 ## CITY LATITUDE VS WIND SPEED
 While looking at City Latitude vs. Wind Speed (2022-10-18) (Fig3) there appears to be wide variability in the higher city latitudes, but a tighter band of cities residing in the range below 6.5 wind speed(m/s). This result may not be all that surprising as a lower wind level would be more conducive to a wider range of outdoor human activities and be a positive addition to an overall living environment.      
-<img src="Pics/ CITY LATITUDE VS WIND SPEED.png" width="640" height="480">
+<img src="Pics/CITY LATITUDE VS WIND SPEED.png" width="640" height="480">
 
 ## TEMPERATURE VS LATITUDE LINEAR REGRESSION PLOT
 When examining the linear regression plot of Temperature vs Latitude for the Northern Hemisphere you immediately can see a strong negative correlation showing higher city temperatures as the latitude nears the equator and lower city temperatures as the latitude moves away from the equator.  This linear regression appears to show a strong correlation with a definitive negative slope and an r-value of -0.883.  This correlation also makes intuitive sense as temperatures generally tend to rise as locations get closer to the equator and drop as locations mover further away.             
