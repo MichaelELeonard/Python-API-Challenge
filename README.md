@@ -89,10 +89,14 @@ In this deliverable, weather data skills were used to plan future vacations. Thi
 
 ### For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.  
 
+<br>
+
 <img src="Pics/Associated Hotels.png" width="689" height="726">
 
 
 ### Add the hotel name and the country as additional information in the hover message for each city on the map.
+
+<br>
 
 <img src="Pics/Hotel Map.png" width="923" height="457">
 
