@@ -17,6 +17,7 @@ The task of this project was to pull random cities throughout the world and see 
 <br>
 547 randomly selected cities and their corresponding variable attributes were pulled from an API through OpenWeatherMap.org and put into a DataFrame for analysis.  A series of Scatter Plots were created to begin the statistical analysis.  The variables examined include:
 
+
 <br>
 
 * City Latitude vs Temperature
