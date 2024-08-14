@@ -22,7 +22,7 @@ The task of this project was to pull random cities throughout the world and see 
 * City Latitude vs Cloudiness
 * City Latitude vs Wind Speed
 
-<br>
+
 ### City Latitude vs Temperature
 When examining City Max Latitude vs. Temperature (2022-10-18) most of the cities in the study seem to be located between a latitude of -40* to 40*, representing 2760 miles above and below the earth’s equator.  The majority of the cities in the chart reside in a Temperature (C) range of 0 to 35 degrees Celsius (32-95 degrees Fahrenheit).  This result is not surprising as 32-95 degrees Fahrenheit is typically a comfortable temperature range for human beings.       
 <img src="Pics/CITY LATITUDE VS TEMPERATURE.png" width="640" height="480">
