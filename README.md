@@ -73,13 +73,11 @@ When looking that the Latitude Linear Regression Plots for Wind Speed vs City La
 ## VacationPY Analysis
 In this deliverable, weather data skills were used to plan future vacations. This was accomplished using Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
-<br>
 
 ### Create a map that displays a point for every city in the city DataFrame.  The size of the point should be the humidity in each city.
 
 <img src="Pics/Initial Map.png" width="957" height="459">
 
-<br>
 
 ### Narrow down the DataFrame to find your ideal weather conditions:
 * A max temperature lower than 27 degrees but higher than 21
@@ -88,13 +86,11 @@ In this deliverable, weather data skills were used to plan future vacations. Thi
 
 <img src="Pics/Ideal Weather.png" width="879" height="725">
 
-<br>  
 
 ### For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.  
 
 <img src="Pics/Associated Hotels.png" width="689" height="726">
 
-<br>
 
 ### Add the hotel name and the country as additional information in the hover message for each city on the map.
 
