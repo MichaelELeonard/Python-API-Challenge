@@ -2,7 +2,7 @@
 
 # python-api-challenge
 
-# WeatherPY Analysis
+## WeatherPY Analysis
 The task of this project was to pull random cities throughout the world and see if there are any statistical correlations between the city’s global latitude and conditions.  The variables examined in this analysis include:
 * City Name
 * City Latitude
@@ -69,7 +69,7 @@ When looking that the Latitude Linear Regression Plots for Wind Speed vs City La
 <img src="Pics/WIND SPEED VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="571" height="373">
 
 
-# VacationPY Analysis
+## VacationPY Analysis
 In this deliverable, weather data skills were used to plan future vacations. This was accomplished using Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
 ### Create a map that displays a point for every city in the city DataFrame.  The size of the point should be the humidity in each city.
