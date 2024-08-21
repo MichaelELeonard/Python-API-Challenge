@@ -3,7 +3,7 @@
 # python-api-challenge
 
 ## WeatherPY Analysis
-The task of this project was to pull random cities throughout the world and see if there are any statistical correlations between the city’s global latitude and conditions.  The variables examined in this analysis include:
+The task of this project was to pull random cities throughout the world and see if there are any statistical correlations between the city’s global latitude and its weather conditions.  The variables examined in this analysis include:
 * City Name
 * City Latitude
 * City Longitude
