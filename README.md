@@ -51,6 +51,7 @@ When examining the Linear Regression Plot of Temperature vs Latitude for the Sou
 
 <br>
 <img src="Pics/TEMPERATURE VS LATITUDE LINEAR REGRESSION PLOT NORTH.png" width="491" height="376">
+
 <img src="Pics/TEMPERATURE VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="495" height="374">
 
 
@@ -58,12 +59,14 @@ When examining the Linear Regression Plot of Temperature vs Latitude for the Sou
 The Humidity vs Latitude Linear Regression Plot for the Northern and Southern Hemispheres provided similar results.  Both Lineal Regression plots show relatively loose correlations between city latitude and humidity, with a r-value in the north at 0.03 and a r-value in the south at -0.09.  Neither of these plots show strong considerations for city location in relation to humidity, and it can be assumed that other environmental factors play a much stronger role in determining where a city is to be located.   
 <br>
 <img src="Pics/HUMIDITY VS LATITUDE LINEAR REGRESSION PLOT NORTH.png" width="488" height="375">
+
 <img src="Pics/HUMIDITY VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="488" height="375">
 
 ### Cloudiness vs Latitude Linear Regression Plot
 Upon examining Cloudiness vs Latitude Linear Regression Plots for the Northern and Southern Hemispheres both plots show very weak correlations between Cloudiness and City Latitude.  The linear regression plot for both the northern and southern hemispheres shows a gradual slopes and a r-value of -0.01 for the northern hemisphere and a r-value of 0.1. for the southern hemisphere.  The graphs for both hemispheres point to a weak correlation between city latitude and cloudiness.      
 <br>
 <img src="Pics/CLOUDINESS VS LATITUDE LINEAR REGRESSION PLOT NORTH.png" width="493" height="376">
+
 <img src="Pics/CLOUDINESS VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="494" height="375">
 
 ### Wind Speed vs Latitude Linear Regression Plot
