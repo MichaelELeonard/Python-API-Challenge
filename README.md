@@ -42,13 +42,12 @@ When examining City Latitude vs. Cloudiness there appears to be wide variability
 
 ### City Latitude vs Wind Speed
 While looking at City Latitude vs. Wind Speed there appears to be wide variability in the higher city latitudes, but a tighter band of cities residing in the range below 6.5 wind speed(m/s). This result may not be all that surprising as a lower wind level would be more conducive to a wider range of outdoor human activities and be a positive addition to an overall living environment.      
-
 <img src="Pics/CITY LATITUDE VS WIND SPEED.png" width="468" height="376">
 
 ### Temperature vs Latitude Linear Regression Plot
-When examining the Linear Regression Plot of Temperature vs Latitude for the Northern Hemisphere you see a negative correlation showing higher city temperatures as the latitude nears the equator and lower city temperatures as the latitude moves away from the equator.  This linear regression appears to show a strong correlation with a definitive negative slope and an r-value of -0.69.  This correlation also makes intuitive sense as temperatures generally tend to rise as locations get closer to the equator and drop as locations move further away.      
+When examining the Linear Regression Plot of Temperature vs Latitude for the Northern Hemisphere you see a negative correlation showing higher city temperatures as the latitude nears the equator and lower city temperatures as the latitude moves away from the equator.  This linear regression shows a negative slope and an r-value of -0.69.  This correlation also makes intuitive sense as temperatures generally tend to rise as locations get closer to the equator and drop as locations move further away.      
        
-When examining the Linear Regression Plot of Temperature vs Latitude for the Southern Hemisphere we see a weaker positive correlation between higher city temperatures as the latitude.  This linear regression displays a more gradual positive slope and a weaker r-value of 0.78.  A potential explanation of the weaker linear regression seen in the southern hemisphere could potentially be due to a significantly smaller human population in the southern hemisphere vs the norther hemisphere, allowing southern hemisphere cities to be more spread out geographically. 
+When examining the Linear Regression Plot of Temperature vs Latitude for the Southern Hemisphere we see a positive correlation between higher city temperatures as the latitude.  This linear regression displays a positive slope and a r-value of 0.78.  A potential explanation of this linear regression in the southern hemisphere could potentially be due to a significantly smaller human population in the southern hemisphere vs the norther hemisphere, allowing southern hemisphere cities to be more spread out geographically. 
 
 <br>
 <img src="Pics/TEMPERATURE VS LATITUDE LINEAR REGRESSION PLOT NORTH.png" width="491" height="376">
@@ -56,13 +55,13 @@ When examining the Linear Regression Plot of Temperature vs Latitude for the Sou
 
 
 ### Humidity vs Latitude Linear Regression Plot
-The Humidity vs Latitude Linear Regression Plot for the Northern and Southern Hemispheres, both provided a low correlation in the results.  Both lineal regression plots show relatively loose positive correlations between city latitude and humidity, with a r-value in the north at 0.03 and a r-value in the south at -0.09.  Neither of these polts show strong considerations for city location in relation to humidity, and it can be assumed that other environmental factors play a much stronger role in determining where a city is to be located.   
+The Humidity vs Latitude Linear Regression Plot for the Northern and Southern Hemispheres provided similar results.  Both Lineal Regression plots show relatively loose correlations between city latitude and humidity, with a r-value in the north at 0.03 and a r-value in the south at -0.09.  Neither of these plots show strong considerations for city location in relation to humidity, and it can be assumed that other environmental factors play a much stronger role in determining where a city is to be located.   
 <br>
 <img src="Pics/HUMIDITY VS LATITUDE LINEAR REGRESSION PLOT NORTH.png" width="488" height="375">
 <img src="Pics/HUMIDITY VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="488" height="375">
 
 ### Cloudiness vs Latitude Linear Regression Plot
-Upon examining Cloudiness vs Latitude Linear Regression Plots for the Northern and Southern Hemispheres both plots show very weak correlations between Cloudiness and City Latitude.  The linear regression plot for both the northern and southern hemispheres shows a gradual positive slope and a r-value of -0.01 for the northern hemisphere and a r-value of 0.1. for the southern hemisphere.  The graphs for both hemispheres point to a weak correlation between city latitude and cloudiness.      
+Upon examining Cloudiness vs Latitude Linear Regression Plots for the Northern and Southern Hemispheres both plots show very weak correlations between Cloudiness and City Latitude.  The linear regression plot for both the northern and southern hemispheres shows a gradual slopes and a r-value of -0.01 for the northern hemisphere and a r-value of 0.1. for the southern hemisphere.  The graphs for both hemispheres point to a weak correlation between city latitude and cloudiness.      
 <br>
 <img src="Pics/CLOUDINESS VS LATITUDE LINEAR REGRESSION PLOT NORTH.png" width="493" height="376">
 <img src="Pics/CLOUDINESS VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="494" height="375">
