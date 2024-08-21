@@ -42,6 +42,7 @@ When examining City Latitude vs. Cloudiness there appears to be wide variability
 
 ### City Latitude vs Wind Speed
 While looking at City Latitude vs. Wind Speed there appears to be wide variability in the higher city latitudes, but a tighter band of cities residing in the range below 6.5 wind speed(m/s). This result may not be all that surprising as a lower wind level would be more conducive to a wider range of outdoor human activities and be a positive addition to an overall living environment.      
+
 <img src="Pics/CITY LATITUDE VS WIND SPEED.png" width="468" height="376">
 
 ### Temperature vs Latitude Linear Regression Plot
