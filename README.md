@@ -25,17 +25,18 @@ The task of this project was to pull random cities throughout the world and see 
 
 
 ### City Latitude vs Temperature
-When examining City Max Latitude vs. Temperature most of the cities in the study seem to be located between a latitude of -40* to 40*, representing 2760 miles above and below the earth’s equator.  The majority of the cities in the chart reside in a Temperature (C) range of 0 to 35 degrees Celsius (32-95 degrees Fahrenheit).  This result is not surprising as 32-95 degrees Fahrenheit is typically a comfortable temperature range for human beings.       
+When examining City Max Latitude vs. Temperature most of the cities in the study seem to be located between a latitude of -40* to 60*, representing 3450 miles above and below the earth’s equator.  Most of the cities in the chart reside in a Temperature (C) range of 0 to 35 degrees Celsius (32-95 degrees Fahrenheit).  This result is not surprising as 32-95 degrees Fahrenheit is typically a comfortable temperature range for human beings.       
 
 <img src="Pics/CITY LATITUDE VS TEMPERATURE.png" width="468" height="377">
 
 ### City Latitude vs Humidity
-While looking at City Latitude vs. Humidity the cities seem to be diversified across latitudinal coordinates, but a majority appear to reside in the 60-100% humidity range.  This graph shows a human tendency to gravitate to warmer climates with higher levels of humidity, but also outlines humans’ ability to adapt to a wide variety of latitudes and environmental environments.  This graph could also outline the need to expand latitude living locations as global populations continue to increase.
+While looking at City Latitude vs. Humidity the cities seem to be diversified across latitudinal coordinates, but a majority appear to reside in the 60-100% humidity range.  This graph highlights a human tendency to gravitate to warmer climates with higher levels of humidity, but also outlines humans’ ability to adapt to a wide variety of latitudes and environmental environments.  
 
 <img src="Pics/CITY LATITUDE VS HUMIDITY.png" width="475" height="376">
 
 ### City Latitude vs Cloudiness
-When examining City Latitude vs. Cloudiness there appears to be wide variability in the data encompassing the entire range of latitudes shown in the graph.  There does seem to be tendency toward the statistical extremes when looking at Cloudiness %, with a majority of the cities residing at the extremes of 0% and 100%.  When looking at the entirety of this graph it shows us that most cities reside in areas with very low or very high cloud cover and span a wide variety of latitudes.
+When examining City Latitude vs. Cloudiness there appears to be wide variability in the data encompassing the entire range of latitudes shown in the graph.  There does seem to be tendency toward the statistical extremes when looking at Cloudiness %, with most of the cities residing at the extremes of 0% and 100%.  When looking at the entirety of this graph it shows us that most cities reside in areas with very low or very high cloud cover and span a wide variety of latitudes.
+
 <img src="Pics/CITY LATITUDE VS CLOUDINESS.png" width="474" height="375">
 
 ### City Latitude vs Wind Speed
