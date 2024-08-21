@@ -35,7 +35,7 @@ While looking at City Latitude vs. Humidity the cities seem to be diversified ac
 <img src="Pics/CITY LATITUDE VS HUMIDITY.png" width="475" height="376">
 
 ### City Latitude vs Cloudiness
-When examining City Latitude vs. Cloudiness there appears to be wide variability in the data encompassing the entire range of latitudes shown in the graph.  There does seem to be tendency toward the statistical extremes when looking at Cloudiness %, with most of the cities residing at the extremes of 0% and 100%.  When looking at the entirety of this graph it shows us that most cities reside in areas with very low or very high cloud cover and span a wide variety of latitudes.
+When examining City Latitude vs. Cloudiness there appears to be wide variability in the data encompassing the entire range of latitudes shown in the graph.  There does seem to be tendency toward the statistical extremes when looking at Cloudiness %, with most of the cities residing at the extremes of 0% and 100%.  
 
 <img src="Pics/CITY LATITUDE VS CLOUDINESS.png" width="474" height="375">
 
