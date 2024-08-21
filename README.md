@@ -1,6 +1,8 @@
 <img src="Pics/Header.png" width="682" height="296">
 
 # python-api-challenge
+##### Link to WeatherPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/WeatherPyWorking.ipynb
+##### Link to VacationPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/VacationPyWorking.ipynb
 
 ## WeatherPY Analysis
 The task of this project was to pull random cities throughout the world and see if there are any statistical correlations between the city’s global latitude and its weather conditions.  The variables examined in this analysis include:
