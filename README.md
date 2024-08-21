@@ -25,25 +25,25 @@ The task of this project was to pull random cities throughout the world and see 
 
 
 ### City Latitude vs Temperature
-When examining City Max Latitude vs. Temperature (2022-10-18) most of the cities in the study seem to be located between a latitude of -40* to 40*, representing 2760 miles above and below the earth’s equator.  The majority of the cities in the chart reside in a Temperature (C) range of 0 to 35 degrees Celsius (32-95 degrees Fahrenheit).  This result is not surprising as 32-95 degrees Fahrenheit is typically a comfortable temperature range for human beings.       
+When examining City Max Latitude vs. Temperature most of the cities in the study seem to be located between a latitude of -40* to 40*, representing 2760 miles above and below the earth’s equator.  The majority of the cities in the chart reside in a Temperature (C) range of 0 to 35 degrees Celsius (32-95 degrees Fahrenheit).  This result is not surprising as 32-95 degrees Fahrenheit is typically a comfortable temperature range for human beings.       
 
 <img src="Pics/CITY LATITUDE VS TEMPERATURE.png" width="468" height="377">
 
 ### City Latitude vs Humidity
-While looking at City Latitude vs. Humidity (2022-10-18) the cities seem to be diversified across latitudinal coordinates, but a majority appear to reside in the 60-100% humidity range.  This graph shows a human tendency to gravitate to warmer climates with higher levels of humidity, but also outlines humans’ ability to adapt to a wide variety of latitudes and environmental environments.  This graph could also outline the need to expand latitude living locations as global populations continue to increase.
+While looking at City Latitude vs. Humidity the cities seem to be diversified across latitudinal coordinates, but a majority appear to reside in the 60-100% humidity range.  This graph shows a human tendency to gravitate to warmer climates with higher levels of humidity, but also outlines humans’ ability to adapt to a wide variety of latitudes and environmental environments.  This graph could also outline the need to expand latitude living locations as global populations continue to increase.
 
 <img src="Pics/CITY LATITUDE VS HUMIDITY.png" width="475" height="376">
 
 ### City Latitude vs Cloudiness
-When examining City Latitude vs. Cloudiness (2022-10-18) there appears to be wide variability in the data encompassing the entire range of latitudes shown in the graph.  There does seem to be tendency toward the statistical extremes when looking at Cloudiness %, with a majority of the cities residing at the extremes of 0% and 100%.  When looking at the entirety of this graph it shows us that most cities reside in areas with very low or very high cloud cover and span a wide variety of latitudes.
+When examining City Latitude vs. Cloudiness there appears to be wide variability in the data encompassing the entire range of latitudes shown in the graph.  There does seem to be tendency toward the statistical extremes when looking at Cloudiness %, with a majority of the cities residing at the extremes of 0% and 100%.  When looking at the entirety of this graph it shows us that most cities reside in areas with very low or very high cloud cover and span a wide variety of latitudes.
 <img src="Pics/CITY LATITUDE VS CLOUDINESS.png" width="474" height="375">
 
 ### City Latitude vs Wind Speed
-While looking at City Latitude vs. Wind Speed (2022-10-18) there appears to be wide variability in the higher city latitudes, but a tighter band of cities residing in the range below 6.5 wind speed(m/s). This result may not be all that surprising as a lower wind level would be more conducive to a wider range of outdoor human activities and be a positive addition to an overall living environment.      
+While looking at City Latitude vs. Wind Speed there appears to be wide variability in the higher city latitudes, but a tighter band of cities residing in the range below 6.5 wind speed(m/s). This result may not be all that surprising as a lower wind level would be more conducive to a wider range of outdoor human activities and be a positive addition to an overall living environment.      
 <img src="Pics/CITY LATITUDE VS WIND SPEED.png" width="468" height="376">
 
 ### Temperature vs Latitude Linear Regression Plot
-When examining the linear regression plot of Temperature vs Latitude for the Northern Hemisphere you immediately can see a strong negative correlation showing higher city temperatures as the latitude nears the equator and lower city temperatures as the latitude moves away from the equator.  This linear regression appears to show a strong correlation with a definitive negative slope and an r-value of -0.70.  This correlation also makes intuitive sense as temperatures generally tend to rise as locations get closer to the equator and drop as locations mover further away.             
+When examining the linear regression plot of Temperature vs Latitude for the Northern Hemisphere you immediately can see a strong negative correlation showing higher city temperatures as the latitude nears the equator and lower city temperatures as the latitude moves away from the equator.  This linear regression appears to show a strong correlation with a definitive negative slope and an r-value of -0.70.  This correlation also makes intuitive sense as temperatures generally tend to rise as locations get closer to the equator and drop as locations move further away.             
 When examining the Linear Regression Plot of Temperature vs Latitude for the Southern Hemisphere we see a weaker positive correlation between higher city temperatures as the latitude.  This linear regression displays a more gradual positive slope and a weaker r-value of 0.82.  A potential explanation of the weaker linear regression seen in the southern hemisphere could potentially be due to a significantly smaller human population in the southern hemisphere vs the norther hemisphere, allowing southern hemisphere cities to be more spread out geographically. 
 
 <br>
