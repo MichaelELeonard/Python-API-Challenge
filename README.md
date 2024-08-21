@@ -81,7 +81,7 @@ When looking that the Latitude Linear Regression Plots for Wind Speed vs City La
 In this deliverable, weather data skills were used to plan future vacations. This was accomplished using Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
 
-### The map that displays a point for every city in the city DataFrame.  The size of the point correlates to the humidity in each city.
+### The map displays a point for every city in the city DataFrame.  The size of the point correlates to the humidity in each city.
 
 <img src="Pics/Initial Map.png" width="957" height="459">
 
