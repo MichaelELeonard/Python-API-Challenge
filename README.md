@@ -5,7 +5,7 @@
 
 
 # WeatherPY Analysis
-The task of this project was to pull data from random cities throughout the world and see if there are statistical correlations between the city’s global latitude and its weather conditions.  The variables examined in this analysis include:
+The task of this project was to pull data from random cities throughout the world and see if there are statistical correlations between the city’s global latitude and its weather conditions.  The variables examined in this analysis included:
 * City Name
 * City Latitude
 * City Longitude
@@ -17,7 +17,7 @@ The task of this project was to pull data from random cities throughout the worl
 * Date
   
 
-560 randomly selected cities and their corresponding attributes were pulled from the OpenWeatherMap.org API for analysis.  A series of scatter plot charts were created for the statistical analysis.  The variables examined included:
+560 randomly selected cities and their corresponding attributes were pulled from the OpenWeatherMap.org API for analysis.  A series of scatter plot charts were created for the statistical analysis.  The variables included:
 * City Latitude vs Temperature
 * City Latitude vs Humidity
 * City Latitude vs Cloudiness
