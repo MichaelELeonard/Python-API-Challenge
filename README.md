@@ -2,7 +2,6 @@
 
 # python-api-challenge
 ##### Link to WeatherPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/WeatherPyWorking.ipynb
-##### Link to VacationPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/VacationPyWorking.ipynb
 
 
 ## WeatherPY Analysis
@@ -79,6 +78,9 @@ When looking that the Latitude Linear Regression Plots for Wind Speed vs City La
 
 
 ## VacationPY Analysis
+
+##### Link to VacationPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/VacationPyWorking.ipynb
+
 In this deliverable, weather data skills were used to plan future vacations. This was accomplished using Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
 
