@@ -1,10 +1,10 @@
 <img src="Pics/Header.png" width="682" height="296">
 
-# python-api-challenge
+# Python-API-challenge
 ##### Link to WeatherPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/WeatherPyWorking.ipynb
 
 
-## WeatherPY Analysis
+# WeatherPY Analysis
 The task of this project was to pull random cities throughout the world and see if there are any statistical correlations between the city’s global latitude and its weather conditions.  The variables examined in this analysis include:
 * City Name
 * City Latitude
@@ -77,7 +77,7 @@ When looking that the Latitude Linear Regression Plots for Wind Speed vs City La
 <img src="Pics/WIND SPEED VS LATITUDE LINEAR REGRESSION PLOT SOUTH.png" width="490" height="376">
 
 
-## VacationPY Analysis
+# VacationPY Analysis
 
 ##### Link to VacationPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/VacationPyWorking.ipynb
 
