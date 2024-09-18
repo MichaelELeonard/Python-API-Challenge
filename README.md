@@ -89,7 +89,7 @@ In this deliverable, the weather data was used to plan future vacation destinati
 <img src="Pics/Initial Map.png" width="957" height="459">
 
 
-## The DataFrame was filtered to find your ideal weather conditions:
+## The DataFrame was filtered to identify locations with ideal weather conditions:
 * A max temperature lower than 27 degrees but higher than 21
 * Wind speed less than 4.5 m/s
 * Zero cloudiness
