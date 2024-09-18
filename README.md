@@ -1,6 +1,6 @@
 <img src="Pics/Header.png" width="682" height="296">
 
-# Python-API-challenge
+# Python API Challenge
 ##### Link to WeatherPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/WeatherPyWorking.ipynb
 
 
