@@ -31,7 +31,7 @@ When examining City Max Latitude vs. Temperature most of the cities in the study
 <img src="Pics/CITY LATITUDE VS TEMPERATURE.png" width="468" height="377">
 
 ## City Latitude vs Humidity
-While looking at City Latitude vs. Humidity the cities seem to be diversified across latitudinal coordinates, but a majority appear to reside in the 60-100% humidity range.  This graph highlights a human tendency to gravitate to warmer climates, but also outlines humans’ ability to adapt to a wide variety of latitudes and environmental environments.  
+While looking at City Latitude vs. Humidity the cities seem to be diversified across latitudinal coordinates, but a majority appear to reside in the 60-100% humidity range.  This graph highlights a human tendency to gravitate to warmer climates, but also outlines humans ability to adapt to a wide variety of latitudes and environmental environments.  
 
 
 <img src="Pics/CITY LATITUDE VS HUMIDITY.png" width="475" height="376">
