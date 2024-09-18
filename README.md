@@ -17,7 +17,7 @@ The task of this project was to pull data from random cities throughout the worl
 * Date
   
 
-560 randomly selected cities and their corresponding attributes were pulled from the OpenWeatherMap.org API and put into a DataFrame for analysis.  A series of Scatter Plots were created to begin the statistical analysis.  The variables examined include:
+560 randomly selected cities and their corresponding attributes were pulled from the OpenWeatherMap.org API for analysis.  A series of Scatter Plots were created to begin the statistical analysis.  The variables examined include:
 * City Latitude vs Temperature
 * City Latitude vs Humidity
 * City Latitude vs Cloudiness
