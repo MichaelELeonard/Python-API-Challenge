@@ -78,7 +78,7 @@ When looking that the Latitude Linear Regression Plots for Wind Speed vs City La
 
 # VacationPY Analysis
 
-#### [VacationPY code link]( https://github.com/MichaelELeonard/python-api-challenge/blob/main/VacationPyWorking.ipynb)
+[VacationPY code link]( https://github.com/MichaelELeonard/python-api-challenge/blob/main/VacationPyWorking.ipynb)
 
 In this deliverable, the [OpenWeatherMap.org API](https://openweathermap.org/api) data was used to plan future vacation destinations. This was accomplished using Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
