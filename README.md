@@ -25,12 +25,12 @@ The task of this project was to pull API data from random cities throughout the 
 
 
 ## City Latitude vs Temperature
-When examining City Max Latitude vs. Temperature most of the cities in the study seem to be located between a latitude of -40* to 60*, representing a horizontal range of 3450 miles.  Most of the cities in the chart reside in a Temperature (C) range of 0 to 35 degrees Celsius (32-95 degrees Fahrenheit).  This result is not surprising as 32-95 degrees Fahrenheit is typically a comfortable temperature range for human beings.       
+When examining City Max Latitude vs. Temperature most of the cities are located between a latitude of -40° to 60° and have a temperature of range of 0° to 35° degrees Celsius (32°-95° Fahrenheit).  This result is not surprising as 32°-95° degrees Fahrenheit is typically a comfortable temperature range for human beings.       
 
 <img src="Pics/CITY LATITUDE VS TEMPERATURE.png" width="468" height="377">
 
 ## City Latitude vs Humidity
-While looking at City Latitude vs. Humidity the cities seem to be diversified across latitudinal coordinates, but a majority appear to reside in the 60-100% humidity range.  This graph highlights a human tendency to gravitate to warmer climates, but also outlines humans ability to adapt to a wide variety of latitudes and environmental environments.  
+While looking at City Latitude vs. Humidity the cities seem to be diversified across latitudinal coordinates, but a majority appear to reside in the 60-100% humidity range.  This graph highlights a human tendency to gravitate to warmer climates, but also outlines humans’ ability to adapt to a wide variety of latitudes and environmental environments.  
 
 
 <img src="Pics/CITY LATITUDE VS HUMIDITY.png" width="475" height="376">
