@@ -5,7 +5,7 @@ WeatherPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/ma
 
 
 # WeatherPY Analysis
-The task of this project was to pull data from random cities throughout the world and see if there are statistical correlations between the city’s global latitude and its weather conditions.  The variables examined in this analysis included:
+The task of this project was to pull API data from random cities throughout the world and see if there are statistical correlations between the city’s global latitude and its weather conditions.  The variables examined in this analysis included:
 * City Name
 * City Latitude
 * City Longitude
