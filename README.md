@@ -1,7 +1,7 @@
-<img src="Pics/Header.png" width="682" height="296">
+<img src="Pics/Header.png" width="784" height="340">
 
 # Python API Challenge
-##### Link to WeatherPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/WeatherPyWorking.ipynb
+WeatherPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/WeatherPyWorking.ipynb
 
 
 # WeatherPY Analysis
