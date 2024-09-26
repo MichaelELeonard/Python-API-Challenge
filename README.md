@@ -83,7 +83,7 @@ When looking that the Latitude Linear Regression Plots for Wind Speed vs City La
 In this deliverable, the [OpenWeatherMap.org API](https://openweathermap.org/api) data was used to plan future vacation destinations. This was accomplished using Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
 
-## Each point on the map represents a city in the city dataset.  The size of the point correlates to the humidity in each city.
+## Each point on the map represents a city in the dataset.  The size of the point correlates to the humidity in each location.
 
 <img src="Pics/Initial Map.png" width="957" height="459">
 
