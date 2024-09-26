@@ -25,7 +25,7 @@ The task of this project was to pull API data from random cities throughout the 
 
 
 ## City Latitude vs Temperature
-When examining City Max Latitude vs. Temperature most of the cities are located between a latitude of -40° to 60° and have a temperature of range of 0° to 35° degrees Celsius (32°-95° Fahrenheit).  This result is not surprising as 32°-95° degrees Fahrenheit is typically a comfortable temperature range for human beings.       
+When examining City Max Latitude vs. Temperature most of the cities are located between a latitude of -40° to 60° and have a temperature of range of 0° to 35° degrees Celsius (32°-95° Fahrenheit).  This result is not surprising as 32°-95° Fahrenheit is typically a comfortable temperature range for human beings.       
 
 <img src="Pics/CITY LATITUDE VS TEMPERATURE.png" width="468" height="377">
 
