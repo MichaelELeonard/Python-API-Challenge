@@ -1,8 +1,7 @@
 <img src="Pics/Header.png" width="786" height="440">
 
 # Python API Challenge
-WeatherPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/WeatherPyWorking.ipynb
-
+[WeatherPY code]( https://github.com/MichaelELeonard/python-api-challenge/blob/main/WeatherPyWorking.ipynb)
 
 # WeatherPY Analysis
 The task of this project was to pull API data from random cities throughout the world and see if there are statistical correlation between the city’s global latitude and various weather conditions.  The variables examined in this analysis included:
