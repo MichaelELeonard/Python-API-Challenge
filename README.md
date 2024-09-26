@@ -103,7 +103,7 @@ In this deliverable, the [OpenWeatherMap.org API](https://openweathermap.org/api
 <img src="Pics/Associated Hotels.png" width="689" height="726">
 
 
-## The hotel name and country of origin was added to the map as a hover message for each location.
+## The hotel name and country of origin was added to the map as a hover message.
 
 <br>
 
