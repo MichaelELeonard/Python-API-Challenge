@@ -83,12 +83,12 @@ When looking that the Latitude Linear Regression Plots for Wind Speed vs City La
 In this deliverable, the [OpenWeatherMap.org API](https://openweathermap.org/api) data was used to plan future vacation destinations. This was accomplished using Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
 
-## Each point on the map represents a city in the city dataframe.  The size of the point correlates to the humidity in each city.
+## Each point on the map represents a city in the city dataset.  The size of the point correlates to the humidity in each city.
 
 <img src="Pics/Initial Map.png" width="957" height="459">
 
 
-## The dataframe was filtered to identify locations with ideal weather conditions:
+## The city dataset was filtered to identify locations with ideal weather conditions:
 * Max temperature lower than 27 degrees but higher than 21
 * Wind speed less than 4.5 m/s
 * Zero cloudiness
