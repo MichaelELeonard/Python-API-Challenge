@@ -1,4 +1,4 @@
-<img src="Pics/Header.png" width="684" height="383">
+<img src="Pics/Header.png" width="786" height="440">
 
 # Python API Challenge
 WeatherPY code - https://github.com/MichaelELeonard/python-api-challenge/blob/main/WeatherPyWorking.ipynb
